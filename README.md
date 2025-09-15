@@ -51,7 +51,7 @@ console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95], 82));
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/kikecastillocolombia/GradebookApp.git](https://github.com/kikecastillocolombia/GradebookApp.git)
+git clone https://github.com/kikecastillocolombia/GradebookApp.git
 
 # Entrar al directorio
 cd TU_REPO
