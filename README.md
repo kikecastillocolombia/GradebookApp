@@ -31,10 +31,10 @@ Un pequeño programa en **JavaScript** que ayuda a los profesores a calcular pro
 ## 🖥️ Ejemplo de uso
 
 ```javascript
-console.log(studentMsg([92, 88, 12, 77, 57, 100, 67, 38, 97, 89], 37));
+console.log(studentMsg([92, 88, 12, 77, 57, 100, 67, 38, 97, 89]));
 // Class average: 71.7. Your grade: F. You failed the course.
 
-console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95], 82));
+console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95]));
 // Class average: 86.6. Your grade: B. You passed the course.
 ````
 
