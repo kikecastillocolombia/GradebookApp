@@ -57,5 +57,5 @@ git clone https://github.com/kikecastillocolombia/GradebookApp.git
 cd (Ubicación del proyecto)
 
 # Ejecutar con Node
-node index.js
+node GradebookApp.ts
 ```
